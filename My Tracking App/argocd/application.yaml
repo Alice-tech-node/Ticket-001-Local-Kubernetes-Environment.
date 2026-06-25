@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     # REPO CONFIGURATION
-    repoURL: 'https://github.com/Alice-tech-node/Ticket-001-Local-Kubernetes-Environment.git'
+    repoURL: 'https://github.com/Alice-tech-node/Ticket-001-Local-Kubernetes-Environment.'
     targetRevision: main
     path: 'My Tracking App' 
     
